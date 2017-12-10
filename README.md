@@ -1,5 +1,5 @@
 
-# DITRIBUTED DATABASE
+# Distributed Database
 
 Just a small project to play around with distributed databse in the browser
 
