@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "browserify": "^14.5.0",
-    "ecstatic": "^3.1.0",
+    "browserify": "^16.3.0",
+    "ecstatic": "^4.1.2",
     "hyperkv": "^2.0.3",
     "hyperlog": "^4.12.1",
-    "level-browserify": "^1.1.1",
+    "level-browserify": "^2.0.0",
     "signalhub": "^4.9.0",
-    "subleveldown": "^2.1.0",
+    "subleveldown": "^4.1.0",
     "to2": "^1.0.0",
     "watchify": "^3.9.0",
     "webrtc-swarm": "^2.9.0",
